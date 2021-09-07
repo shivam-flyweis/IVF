@@ -1,0 +1,8 @@
+.search-input{
+    /* position: relative; */
+    width: 13rem!important;
+}
+
+.label{
+    font-weight: bold;
+}

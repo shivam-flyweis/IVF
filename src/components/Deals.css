@@ -1,0 +1,14 @@
+.primary-heading{
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+.deal{
+    color: rgb(255, 7, 7);
+    border-bottom: 2px solid gray;
+    font-size: 1rem;
+    font-weight: bold;
+    border-radius: 5rem;
+}
+.deal:hover{
+    color: rgb(73, 73, 73) !important;
+}

@@ -1,0 +1,26 @@
+
+.card{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border: none;
+}
+.card:hover{
+    transform: scale(1.05);
+}
+.price{
+    font-size: 1rem;
+}
+.product-body{
+    text-decoration: inherit;
+    color: inherit;
+}
+.product-body:hover{
+    text-decoration: inherit;
+    color: inherit;
+}
+.product-title{
+   font-weight: bold;
+
+}
+.fa-star{
+    color:gold
+}
